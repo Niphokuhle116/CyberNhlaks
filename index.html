@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cybersecurity Portfolio</title>
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <style>
+        body {margin:0;font-family:Arial,sans-serif;background:#0d1117;color:#c9d1d9;transition: background 0.3s, color 0.3s;}
+        header {background:#161b22;padding:1.5rem 2rem;text-align:center;border-bottom:1px solid #30363d;}
+        header h1 {margin:0;font-size:2rem;color:#58a6ff;}
+        nav {margin-top:1rem;}
+        nav a {margin:0 1rem;color:#58a6ff;text-decoration:none;transition:color 0.3s;}
+        nav a:hover {color:#2ea043;}
+        section {max-width:900px;margin:auto;padding:2rem;}
+        .hero {text-align:center;padding:3rem 1rem;}
+        .hero h2 {font-size:2rem;}
+        .hero p {font-size:1.1rem;margin-top:0.5rem;}
+        .cards {display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:1.5rem;margin-top:2rem;}
+        .card {background:#161b22;border:1px solid #30363d;border-radius:12px;padding:1.5rem;transition:0.3s ease;}
+        .card:hover {border-color:#58a6ff;}
+        a.button {display:inline-block;margin-top:1rem;padding:0.75rem 1.5rem;background:#238636;color:white;text-decoration:none;border-radius:8px;transition:0.3s;}
+        a.button:hover {background:#2ea043;}
+        footer {text-align:center;padding:2rem 1rem;border-top:1px solid #30363d;margin-top:2rem;color:#8b949e;}
+        .dark-mode {background:#0d1117;color:#c9d1d9;}
+        .light-mode {background:#f5f5f5;color:#111;}
+        .mode-toggle {position:fixed;top:1rem;right:1rem;padding:0.5rem 1rem;background:#58a6ff;color:white;border:none;border-radius:6px;cursor:pointer;transition:0.3s;}
+        .mode-toggle:hover {background:#2ea043;}
+    </style>
+</head>
+<body>
+    <button class="mode-toggle" onclick="toggleMode()">Toggle Light/Dark</button>
+    <header>
+        <h1>Cybersecurity Portfolio</h1>
+        <nav>
+            <a href="#projects">Projects</a>
+            <a href="#ctf">CTFs</a>
+            <a href="#skills">Skills</a>
+            <a href="#certificates">Certificates</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <h2>Welcome to My Cybersecurity Portfolio</h2>
+        <p>Explore hands-on security projects, labs, tools, and CTF write-ups.</p>
+        <a class="button" href="#projects">View Projects</a>
+    </section>
+
+    <section id="projects">
+        <h2>Featured Projects</h2>
+        <div class="cards">
+            <div class="card">
+                <h3>🔐 Vulnerability Scanner</h3>
+                <p>Python-based tool to scan systems for outdated services and misconfigurations.</p>
+                <a href="#" class="button">GitHub Repo</a>
+            </div>
+            <div class="card">
+                <h3>🛡️ SIEM Log Analyzer</h3>
+                <p>Parses logs and maps suspicious activity to MITRE ATT&CK techniques.</p>
+                <a href="#" class="button">GitHub Repo</a>
+            </div>
+            <div class="card">
+                <h3>🕵️ Pentest Automation Scripts</h3>
+                <p>Automated recon, enumeration, and reporting scripts for ethical hacking labs.</p>
+                <a href="#" class="button">GitHub Repo</a>
+            </div>
+        </div>
+    </section>
+
+    <section id="ctf">
+        <h2>CTF Writeups</h2>
+        <div class="cards">
+            <div class="card">
+                <h3>🔎 TryHackMe Writeups</h3>
+                <p>Beginner to advanced room walkthroughs with defensive explanations.</p>
+            </div>
+            <div class="card">
+                <h3>💣 HackTheBox Challenges</h3>
+                <p>Enumeration, exploitation, privilege escalation, and reporting.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="skills">
+        <h2>Skills & Technologies</h2>
+        <ul>
+            <li>Network Security, SOC Monitoring, SIEM</li>
+            <li>Penetration Testing & Ethical Hacking</li>
+            <li>Azure Security & Cloud Hardening</li>
+            <li>Python, Bash, PowerShell</li>
+            <li>MITRE ATT&CK, Threat Intelligence</li>
+        </ul>
+    </section>
+
+    <section id="certificates">
+        <h2>Certificates</h2>
+        <ul>
+            <li>Microsoft Azure Fundamentals (AZ-900)</li>
+            <li>Microsoft Azure Administrator Associate (AZ-104)</li>
+            <li>More in <code>/certificates</code> folder</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: your@email.com</p>
+        <p>LinkedIn: <a href="#">Your LinkedIn</a></p>
+    </section>
+
+    <footer>
+        <p>© 2025 Your Name — Cybersecurity Portfolio</p>
+    </footer>
+
+    <script>
+        function toggleMode() {
+            document.body.classList.toggle('light-mode');
+            document.body.classList.toggle('dark-mode');
+        }
+    </script>
+</body>
+</html>
