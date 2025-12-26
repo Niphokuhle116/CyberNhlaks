@@ -3,10 +3,10 @@ Mkhatshwanhlakanipho2@gmail.com
 # Hello, I'm Nhlakanipho Mkhatshwa
 <a href="https://www.linkedin.com/in/nhlakanipho-mkhatshwa"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction]
-[Brief Introduction - Remove this afterwards]
+Brief Introduction
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+
+I am a motivated and detail-oriented IT and cybersecurity professional with a strong foundation in cloud computing, security operations, and technical support. I hold Microsoft certifications including AZ-900 (Azure Fundamentals) and AZ-104 (Azure Administrator Associate),AZ-500 ( Azure Security Engineer Associate) as well as security-focused certifications SC-900 (Security, Compliance, and Identity Fundamentals), SC-200 (Security Operations Analyst), and SC-300 (Identity and Access Administrator). I also hold an Oracle Data Science certificate and a NetSuite certificate, strengthening my data analysis and enterprise systems skills. In addition, I have completed a Technical Support certificate and I am currently developing a practical cybersecurity portfolio and continuously improving my skills to stay aligned with industry demands.
 
 ## Objective
 [Provide Objective]
