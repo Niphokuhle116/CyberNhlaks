@@ -1,7 +1,7 @@
 # CyberNhlaks
 @@ -1,29 +1,29 @@
 # Hello, I'm Nhlakanipho Mkhatshwa
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/nhlakanipho-mkhatshwa"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction]
 [Brief Introduction - Remove this afterwards]
