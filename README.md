@@ -9,10 +9,8 @@ Brief Introduction
 I am a motivated and detail-oriented IT and cybersecurity professional with a strong foundation in cloud computing, security operations, and technical support. I hold Microsoft certifications including AZ-900 (Azure Fundamentals) and AZ-104 (Azure Administrator Associate),AZ-500 ( Azure Security Engineer Associate) as well as security-focused certifications SC-900 (Security, Compliance, and Identity Fundamentals), SC-200 (Security Operations Analyst), and SC-300 (Identity and Access Administrator). I also hold an Oracle Data Science certificate and a NetSuite certificate, strengthening my data analysis and enterprise systems skills. In addition, I have completed a Technical Support certificate and I am currently developing a practical cybersecurity portfolio and continuously improving my skills to stay aligned with industry demands.
 
 ## Objective
-[Provide Objective]
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in IT has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Cloud Security Engineer / Security Operations Center (SOC) / Security Architect / as a Tier 1 Analyst.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project]
