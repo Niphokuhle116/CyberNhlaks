@@ -1,5 +1,5 @@
 # CyberNhlaks
-@@ -1,29 +1,29 @@
+Mkhatshwanhlakanipho2@gmail.com
 # Hello, I'm Nhlakanipho Mkhatshwa
 <a href="https://www.linkedin.com/in/nhlakanipho-mkhatshwa"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
