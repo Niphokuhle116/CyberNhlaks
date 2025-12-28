@@ -36,12 +36,41 @@ My journey in IT has led me to develop a passion for cybersecurity
 ## Certifications
 
 <div>
-<img src="https://img.shields.io/badge/-CISSP-0052CC?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft-SC--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft-SC--200-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft-SC--300-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft-AZ--104-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft-AZ--500-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-@@ -57,6 +56,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
+
 </div>
+
+## 🔐 Security Certifications
+<img src="https://img.shields.io/badge/Microsoft-SC--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft-SC--200-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft-SC--300-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+
+## ☁️ Cloud Certifications
+<img src="https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft-AZ--104-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+<div>
+
+## 🚀 Active Projects (Live & Clickable)
+
+🔒 **SOC Analyst Labs**  
+➡️ https://github.com/YOUR_USERNAME/soc-analyst-labs  
+Hands-on detection, phishing analysis, ransomware simulations, and incident reports.
+
+☁️ **Azure Security Projects**  
+➡️ https://github.com/YOUR_USERNAME/azure-security-projects  
+Secure cloud deployments, backups, RBAC, and network security.
+
+🔐 **IAM Security Labs**  
+➡️ https://github.com/YOUR_USERNAME/iam-security-labs  
+MFA, Conditional Access, Zero Trust identity labs.
 
 ## Projects
 - <a href="https://github.com/Test-MyDFIR/Detection-Lab/tree/main">Detection Lab</a>
