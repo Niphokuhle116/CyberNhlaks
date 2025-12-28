@@ -37,7 +37,7 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-## Tools
+## LABs
 
 
 ## 🛡️ SOC Analyst Labs
@@ -64,9 +64,6 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
 
 ### Network
-<div>
-My journey in IT has led me to develop a passion for cybersecurity
-</div>
 
 ## Certifications
 
