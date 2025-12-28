@@ -39,22 +39,29 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 
 ## Tools
 
-**🧪 Projects & Hands-On Labs
-🔍 SOC Labs**
 
-**📌 Repository: soc-analyst-labs**
+## 🛡️ SOC Analyst Labs
+- [Log Analysis & Alert Investigation](soc-analyst-labs/log-analysis-alert-investigation)
+- [Phishing Detection & Response](soc-analyst-labs/phishing-detection-response)
+- [Ransomware Attack Scenarios](soc-analyst-labs/ransomware-attack-scenarios)
 
-Log analysis and alert investigation
+## ☁️ Azure Security Projects
+- [Secure Azure VM Deployment](azure-security-projects/secure-azure-vm)
+- [Network Security Groups](azure-security-projects/network-security-groups)
+- [Azure Firewall & Segmentation](azure-security-projects/azure-firewall-segmentation)
+- [Secure Storage & Encryption](azure-security-projects/secure-storage-encryption)
+- [Backup & Recovery Configuration](azure-security-projects/backup-and-recovery)
 
-Phishing email detection & response
+## 🔑 IAM Labs
+- [Multi-Factor Authentication (MFA)](iam-security-labs/mfa-implementation)
+- [Privileged Identity Management (PIM)](iam-security-labs/privileged-identity-management)
+- [Zero Trust Model](iam-security-labs/zero-trust-model)
 
-Ransomware attack scenarios
+---
 
-Incident lifecycle documentation
-
-MITRE ATT&CK mapping
-
-Tools: Microsoft Sentinel, Defender, simulated SIEM logs
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
 
 ### Network
 <div>
