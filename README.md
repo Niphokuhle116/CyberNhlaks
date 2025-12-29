@@ -58,6 +58,34 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 - [Zero Trust Model](iam-security-labs/zero-trust-model)
 
 ---
+ 🔹 [LAB NAME]
+
+## Overview
+Short description of the lab objectives.
+
+## Tools Used
+- Tool 1 – Purpose
+- Tool 2 – Purpose
+
+## Methodology
+1. Step 1
+2. Step 2
+3. Step 3
+*(Use screenshots where possible)*
+
+## Results
+- Outputs, alerts, dashboards, etc.
+
+## Mini Incident Report
+- **Incident ID:** LAB-001
+- **Date:** YYYY-MM-DD
+- **Detection:** ...
+- **Action:** ...
+- **Resolution:** ...
+- **Lesson Learned:** ...
+
+## Screenshots
+![Screenshot 1](screenshots/example.png)
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
@@ -104,206 +132,44 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 
 
 
-## 🚀 Active Projects (Live & Clickable)
+🛡️ SOC Analyst Labs
 
-🔒 **SOC Analyst Labs**  
-➡️ https://github.com/CyberNhlaks
-/soc-analyst-labs  
-Hands-on detection, phishing analysis, ransomware simulations, and incident reports.
+🔍 Log Analysis & Alerts
+ – Analyze logs, detect anomalies, and investigate alerts.
 
-☁️ **Azure Security Projects**  
-➡️ https://github.com/CyberNhlaks
-/azure-security-projects  
-Secure cloud deployments, backups, RBAC, and network security.
+✉️ Phishing Detection & Response
+ – Identify, contain, and report phishing attempts.
 
-🔐 **IAM Security Labs**  
-➡️ https://github.com/CyberNhlaks
-/iam-security-labs  
-MFA, Conditional Access, Zero Trust identity labs.
+💀 Ransomware Attack Simulation
+ – Simulate ransomware attacks and recovery steps.
 
-## Projects
-- <a href="https://github.com/Test-MyDFIR/Detection-Lab/tree/main">Detection Lab</a>
-- Detection Lab
+☁️ Azure Security Projects
 
+🖥️ Secure VM Deployment
+ – Deploy Azure VMs securely with least-privilege access.
 
-  # 🔎 Log Analysis & Alert Investigation
+🛡️ Network Security Groups
+ – Configure inbound/outbound rules and traffic filtering.
 
-## 📌 Lab Overview
-This lab demonstrates hands-on SOC analyst skills in **log analysis, alert triage, and incident investigation** using simulated SIEM alerts aligned with real-world security operations.
----
+🔥 Azure Firewall & Segmentation
+ – Implement network isolation and secure traffic flow.
 
-## 🎯 Objective
-- Analyze security logs and alerts
-- Identify malicious vs benign activity
-- Determine severity and impact
-- Document investigation findings
----
+🔒 Secure Storage & Encryption
+ – Protect data with encryption and access controls.
 
-## 🛠️ Tools & Technologies
-- Microsoft Sentinel (SIEM concepts)
-- Microsoft Defender
-- Simulated security logs
-- MITRE ATT&CK Framework
----
+💾 Backup & Recovery
+ – Configure Azure Backup and test recovery scenarios.
 
-## 🚨 Alert Details
-- Alert Type: Suspicious Login Attempt
-- Severity: Medium
-- Detection Source: SIEM
-- Affected Asset: User Account / Endpoint
----
+🔑 IAM Labs
 
-## 🔍 Investigation Steps
-1. Reviewed SIEM alert details
-2. Analyzed authentication logs
-3. Correlated events across data sources
-4. Checked indicators of compromise (IOCs)
----
+🔐 Multi-Factor Authentication (MFA)
+ – Configure MFA policies and conditional access.
 
-## 📊 Findings
-- Multiple failed login attempts
-- Login from unusual IP address
-- No successful privilege escalation detected
+👑 Privileged Identity Management (PIM)
+ – Assign temporary admin roles and monitor privileges.
 
-## 🛑 Response Actions
-- Monitored user activity
-- Recommended password reset
-- Logged incident for trend analysis
-- 
-## 📘 Lessons Learned
-Improved alert tuning and enhanced MFA enforcement can reduce similar alerts.
-
-- SOC Automation Project
-- Test Project
-
-# 🎣 Phishing Email Detection & Response
-
-## 📌 Lab Overview
-This lab focuses on **phishing email analysis, detection, and response**, simulating common social engineering attacks faced by SOC teams.
----
-
-## 🎯 Objective
-- Identify phishing indicators
-- Analyze email headers and content
-- Perform containment and user remediation
----
-
-## 🚨 Alert Details
-- Alert Type: Suspicious Email
-- Severity: High
-- Delivery Method: Email
----
-
-## 🔍 Analysis Performed
-- Checked sender domain reputation
-- Analyzed email headers
-- Identified malicious links
----
-
-## 🧾 Indicators of Compromise (IOCs)
-- Malicious domain
-- Spoofed sender address
-- Embedded phishing URL
----
-
-## 🛑 Response Actions
-- Email quarantined
-- User notified
-- Domain blocked
----
-
-## 📘 Lessons Learned
-User awareness training reduces phishing success rates.
-
-
-# 🧨 Ransomware Attack Scenario
-
-## 📌 Lab Overview
-This lab simulates a **ransomware attack lifecycle**, focusing on detection, containment, and recovery.
-
----
-
-## 🎯 Objective
-- Detect ransomware behavior
-- Assess business impact
-- Execute incident response procedures
-
----
-
-## 🚨 Alert Details
-- Alert Type: Ransomware Activity
-- Severity: Critical
-- Affected Assets: Endpoint, File Server
-
----
-
-## 🔍 Investigation
-- Identified file encryption activity
-- Detected malicious process execution
-- Mapped attack to MITRE ATT&CK
-
----
-
-## 🛑 Containment & Recovery
-- Isolated infected endpoint
-- Disabled compromised account
-- Initiated system restore from backup
-
----
-
-## 📘 Lessons Learned
-Regular backups and network segmentation reduce ransomware impact.
-
-
-# 🧨 Ransomware Attack Scenario
-
-## 📌 Lab Overview
-This lab simulates a **ransomware attack lifecycle**, focusing on detection, containment, and recovery.
----
-
-## 🎯 Objective
-- Detect ransomware behavior
-- Assess business impact
-- Execute incident response procedures
----
-
-## 🚨 Alert Details
-- Alert Type: Ransomware Activity
-- Severity: Critical
-- Affected Assets: Endpoint, File Server
----
-
-## 🔍 Investigation
-- Identified file encryption activity
-- Detected malicious process execution
-- Mapped attack to MITRE ATT&CK
----
-
-## 🛑 Containment & Recovery
-- Isolated infected endpoint
-- Disabled compromised account
-- Initiated system restore from backup
----
-
-## 📘 Lessons Learned
-Regular backups and network segmentation reduce ransomware impact.
-
-
-# 🎯 MITRE ATT&CK Mapping
-
-## 📌 Overview
-This lab maps detected threats to the **MITRE ATT&CK framework** to improve visibility and response accuracy.
-
----
-
-## 🧠 Techniques Identified
-- T1110 – Brute Force
-- T1566 – Phishing
-- T1486 – Data Encrypted for Impact
-
-- ## 🎯 Outcome
-Improved understanding of attacker behavior and detection gaps.
-
+🛡️ Zero Trust Model
+ – Apply least-privilege access and conditional policies for Zero Trust.
 
 
 
