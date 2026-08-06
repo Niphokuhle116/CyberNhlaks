@@ -37,10 +37,10 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-## LABs
+## LABs Implementing Microsoft Defender for Endpoint
 
 
-## 🛡️ SOC Analyst Labs
+## 🛡️ Lab 1: Setting up the Microsoft Defender for Endpoint Environment
 - [Log Analysis & Alert Investigation](soc-analyst-labs/log-analysis-alert-investigation)
 - [Phishing Detection & Response](soc-analyst-labs/phishing-detection-response)
 - [Ransomware Attack Scenarios](soc-analyst-labs/ransomware-attack-scenarios)
@@ -103,7 +103,7 @@ Short description of the lab objectives.
 <img src="https://img.shields.io/badge/Microsoft-AZ--104-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft-AZ--500-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CySA%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
 
