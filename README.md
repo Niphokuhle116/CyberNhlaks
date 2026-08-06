@@ -1,9 +1,10 @@
-# CyberNhlaks
-Mkhatshwanhlakanipho2@gmail.com
+# Cybersecurity Projects
 # Hello, I'm Nhlakanipho Mkhatshwa
+Mkhatshwanhlakanipho2@gmail.com | 0606148251
+
 <a href="https://www.linkedin.com/in/nhlakanipho-mkhatshwa"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-SOC Analyst | Azure Cloud Security | IAM | SC-200 | SC-300 | AZ-104 | AZ-500 | 
+SOC Analyst | Azure Cloud Security | IAM | SC-200 | SC-300 | AZ-104 | AZ-500 
 
 **Brief Introduction**
 
