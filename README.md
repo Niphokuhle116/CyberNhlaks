@@ -14,9 +14,8 @@ Security-focused IT professional with hands-on experience in SOC operations, clo
 
 ## Objective
 
-My journey in IT has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Cloud Security Engineer / Security Operations Center (SOC) / Security Architect / as a Tier 1 Analyst.
+My journey in IT has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Cloud Security Engineer / Security Operations Center (SOC) / Security Architect.
 
-## Skills
 
 ## 🧠 Skills & Focus Areas
 - Security Operations (SOC / Blue Team)
@@ -41,7 +40,7 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 ## LABs Implementing Microsoft Defender for Endpoint
 
 
-## 🛡️ Lab 1: Setting up the Microsoft Defender for Endpoint Environment
+## 🛡️PROJECT 1: Zero Trust IAM Implementation
 - [Log Analysis & Alert Investigation](soc-analyst-labs/log-analysis-alert-investigation)
 - [Phishing Detection & Response](soc-analyst-labs/phishing-detection-response)
 - [Ransomware Attack Scenarios](soc-analyst-labs/ransomware-attack-scenarios)
