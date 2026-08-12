@@ -41,6 +41,12 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 
 
 ## 🛡️PROJECT 1: Zero Trust IAM Implementation
+
+Scenario (MRG the fictional company used throughout this portfolio)
+
+Meridian Retail Group recently underwent an internal security audit that flagged serious identity and access weaknesses.
+1. Shared login credentials - 2. No enforced MFA -  3. Standing (always On ) admin privileges. - 4. No conditional access policies.
+
 - [Log Analysis & Alert Investigation](soc-analyst-labs/log-analysis-alert-investigation)
 - [Phishing Detection & Response](soc-analyst-labs/phishing-detection-response)
 - [Ransomware Attack Scenarios](soc-analyst-labs/ransomware-attack-scenarios)
@@ -57,35 +63,7 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 - [Privileged Identity Management (PIM)](iam-security-labs/privileged-identity-management)
 - [Zero Trust Model](iam-security-labs/zero-trust-model)
 
----
- 🔹 [LAB NAME]
 
-## Overview
-Short description of the lab objectives.
-
-## Tools Used
-- Tool 1 – Purpose
-- Tool 2 – Purpose
-
-## Methodology
-1. Step 1
-2. Step 2
-3. Step 3
-*(Use screenshots where possible)*
-
-## Results
-- Outputs, alerts, dashboards, etc.
-
-## Mini Incident Report
-- **Incident ID:** LAB-001
-- **Date:** YYYY-MM-DD
-- **Detection:** ...
-- **Action:** ...
-- **Resolution:** ...
-- **Lesson Learned:** ...
-
-## Screenshots
-![Screenshot 1](screenshots/example.png)
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
@@ -126,111 +104,7 @@ Short description of the lab objectives.
 <img src="https://img.shields.io/badge/-Certified%20Cybersecurity%20Educator%20Professional%20(CCEP)-FF0000?style=for-the-badge&logo=cybersecurity&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-Oracle%20Data%20Science-F80000?style=for-the-badge&logo=oracle&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-NetSuite%20BI%20%26%20Reporting%20Associate-0078D7?style=for-the-badge&logo=netsuite&logoColor=white" /> 
-<img src="https://img.shields.io/badge/-NetSuite%20AI%20Foundations%20Associate-0078D7?style=for-the-badge&logo=netsuite&logoColor=white" />
-
-
-
-
-
-🛡️ SOC Analyst Labs
-
-🔍 Log Analysis & Alerts
- – Analyze logs, detect anomalies, and investigate alerts.
-
-✉️ Phishing Detection & Response
- – Identify, contain, and report phishing attempts.
-
-💀 Ransomware Attack Simulation
- – Simulate ransomware attacks and recovery steps.
-
-☁️ Azure Security Projects
-
-🖥️ Secure VM Deployment
- – Deploy Azure VMs securely with least-privilege access.
-
-🛡️ Network Security Groups
- – Configure inbound/outbound rules and traffic filtering.
-
-🔥 Azure Firewall & Segmentation
- – Implement network isolation and secure traffic flow.
-
-🔒 Secure Storage & Encryption
- – Protect data with encryption and access controls.
-
-💾 Backup & Recovery
- – Configure Azure Backup and test recovery scenarios.
-
-🔑 IAM Labs
-
-🔐 Multi-Factor Authentication (MFA)
- – Configure MFA policies and conditional access.
-
-👑 Privileged Identity Management (PIM)
- – Assign temporary admin roles and monitor privileges.
-
-🛡️ Zero Trust Model
- – Apply least-privilege access and conditional policies for Zero Trust.
-
-
-
-
-☁️ **Azure Security Projects**
-https://github.com/YOUR_GITHUB_USERNAME/azure-security-projects
-
-🔐 Secure Azure VM Deployment  
-https://github.com/YOUR_GITHUB_USERNAME/azure-security-projects/tree/main/secure-azure-vm
-
-🛡️ Network Security Groups (NSGs)  
-https://github.com/YOUR_GITHUB_USERNAME/azure-security-projects/tree/main/network-security-groups
-
-🔥 Azure Firewall & Network Segmentation  
-https://github.com/YOUR_GITHUB_USERNAME/azure-security-projects/tree/main/azure-firewall-segmentation
-
-🔒 Secure Storage Accounts & Encryption  
-https://github.com/YOUR_GITHUB_USERNAME/azure-security-projects/tree/main/secure-storage-encryption
-
-💾 Backup & Recovery Configuration  
-https://github.com/YOUR_GITHUB_USERNAME/azure-security-projects/tree/main/backup-and-recovery
-
-# ☁️ Azure Security Projects
-
-## 📌 Overview
-This repository demonstrates hands-on **Azure cloud security** implementations aligned with **AZ-104 and cloud security best practices**. Each project includes configuration steps, screenshots, and security explanations.
-
----
-
-## 🧪 Projects Included
-
-### 🔐 Secure Azure VM Deployment
-- Secure VM provisioning
-- Least privilege access
-- Network access restrictions
-
-### 🛡️ Network Security Groups (NSGs)
-- Inbound and outbound rules
-- Traffic filtering
-- Principle of least privilege
-
-### 🔥 Azure Firewall & Network Segmentation
-- Network isolation concepts
-- Secure traffic flow
-- Segmentation best practices
-
-### 🔒 Secure Storage Accounts & Encryption
-- Encryption at rest
-- Secure access configuration
-- Data protection controls
-
-### 💾 Backup & Recovery Configuration
-- Azure Backup setup
-- Recovery testing
-- Ransomware resilience---
-
-## 🛠️ Tools Used
-- Azure Portal
-- Azure Monitor
-- Azure Security Center
-
+<img src="https://img.shields.io/badge/-NetSuite%20AI%20Foundations%20Associate-0078D7?style=for-the-badge&logo=netsuite&logoColor=white" /
 
 
 
