@@ -52,7 +52,7 @@ SOLUTION: I'll redesign meridian's access model around zero trust Framework "nev
 
 
 
-
+2 Device-Based Conditional Access (CA002)
 
 
 
