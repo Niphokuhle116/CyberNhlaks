@@ -49,6 +49,22 @@ Meridian Retail Group recently underwent an internal security audit that flagged
 
 SOLUTION: I'll redesign meridian's access model around zero trust Framework "never Trust, Always Verify" Using Microsoft Entra ID - leveraging their existing M365 E5 license.
 
+
+
+
+
+
+
+
+
+
+
+## 🔐 Break-Glass & Emergency Access Practice
+Per Zero Trust architecture and strict separation-of-secrets practices:
+* The credentials for `breakglass.admin@yourdomain.com` are stored **outside** this repository.
+* In a production environment, these are secured in a hardware vault or an enterprise password manager with strict access controls.
+* This account is explicitly excluded from the `CA001 - Require MFA for All Users` policy to prevent administrator lockout during an IDP outage.
+
 - [Log Analysis & Alert Investigation](soc-analyst-labs/log-analysis-alert-investigation)
 - [Phishing Detection & Response](soc-analyst-labs/phishing-detection-response)
 - [Ransomware Attack Scenarios](soc-analyst-labs/ransomware-attack-scenarios)
