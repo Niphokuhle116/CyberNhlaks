@@ -45,23 +45,7 @@ Security-focused IT professional with hands-on experience in SOC operations, clo
 
 
 ## 🛡️PROJECT 1: Zero Trust IAM Implementation
-
-Scenario (MRG the fictional company used throughout this portfolio)
-
-Meridian Retail Group recently underwent an internal security audit that flagged serious identity and access weaknesses.
-1. Shared login credentials - 2. No enforced MFA -  3. Standing (always On ) admin privileges. - 4. No conditional access policies.
-
-SOLUTION: I'll redesign meridian's access model around zero trust Framework "never Trust, Always Verify" Using Microsoft Entra ID - leveraging their existing M365 E5 license.
-
-
-
-
-2 Device-Based Conditional Access (CA002)
-
-
-
-
-
+Lab Demonstration (https://github.com/Niphokuhle116/Zero-Trust-IAM-Implementation-Lab)
 
 ## 🔐 Break-Glass & Emergency Access Practice
 Per Zero Trust architecture and strict separation-of-secrets practices:
