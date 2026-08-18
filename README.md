@@ -43,8 +43,6 @@ Security-focused IT professional with hands-on experience in SOC operations, clo
 
 # Cybersecurity Projects
 
-## LABs Implementing Microsoft Defender for Endpoint
-
 
 ## 🛡️PROJECT 1: Zero Trust IAM Implementation
 
