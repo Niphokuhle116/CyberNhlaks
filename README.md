@@ -1,16 +1,35 @@
-# Cybersecurity Projects
 # Hello, I'm Nhlakanipho Mkhatshwa
 Mkhatshwanhlakanipho2@gmail.com | 0606148251
 
 <a href="https://www.linkedin.com/in/nhlakanipho-mkhatshwa"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-SOC Analyst | Azure Cloud Security | IAM | SC-200 | SC-300 | AZ-104 | AZ-500 
 
 **Brief Introduction**
 
 🛡️ Cybersecurity Analyst | ☁️ Azure Cloud Security | 🔐 Identity & Access Management
 
 Security-focused IT professional with hands-on experience in SOC operations, cloud security, identity protection, and threat detection. Certified in Microsoft Azure and Security technologies with practical lab experience and an actively growing cybersecurity portfolio. Passionate about protecting systems, detecting threats, and implementing Zero Trust security models.
+
+## Certifications
+
+<div>
+<img src="https://img.shields.io/badge/Microsoft-SC--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft-SC--200-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft-SC--300-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft-AZ--104-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft-AZ--500-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CySA%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+
+
+## ☁️ Other Certifications
+<img src="https://img.shields.io/badge/-Certified%20Phishing%20Prevention%20Specialist%20(CPPS)-FF6F00?style=for-the-badge&logo=cybersecurity&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-Certified%20C++%20Practitioner%20(CCPP)-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-Aviatrix%20Certified%20Engineer-00BFFF?style=for-the-badge&logo=aviatrix&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-Certified%20Cybersecurity%20Educator%20Professional%20(CCEP)-FF0000?style=for-the-badge&logo=cybersecurity&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-Oracle%20Data%20Science-F80000?style=for-the-badge&logo=oracle&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-NetSuite%20BI%20%26%20Reporting%20Associate-0078D7?style=for-the-badge&logo=netsuite&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-NetSuite%20AI%20Foundations%20Associate-0078D7?style=for-the-badge&logo=netsuite&logoColor=white" />
 
 
 ## 🧠 Skills & Focus Areas
@@ -22,16 +41,7 @@ Security-focused IT professional with hands-on experience in SOC operations, clo
 - Ransomware Risk Mitigation
 - Phishing Awareness & User Training
 
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/Test-MyDFIR/Detection-Lab/tree/main">Detection Lab</a>|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+# Cybersecurity Projects
 
 ## LABs Implementing Microsoft Defender for Endpoint
 
@@ -79,24 +89,6 @@ Per Zero Trust architecture and strict separation-of-secrets practices:
 
 
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
-
-### Network
-
-## Certifications
-
-<div>
-<img src="https://img.shields.io/badge/Microsoft-SC--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft-SC--200-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft-SC--300-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft-AZ--104-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft-AZ--500-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CySA%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-
 
 
 </div>
@@ -111,14 +103,6 @@ Per Zero Trust architecture and strict separation-of-secrets practices:
 <img src="https://img.shields.io/badge/Microsoft-AZ--104-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
 <div>
 
-## ☁️ Other Certifications
-<img src="https://img.shields.io/badge/-Certified%20Phishing%20Prevention%20Specialist%20(CPPS)-FF6F00?style=for-the-badge&logo=cybersecurity&logoColor=white" /> 
-<img src="https://img.shields.io/badge/-Certified%20C++%20Practitioner%20(CCPP)-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
-<img src="https://img.shields.io/badge/-Aviatrix%20Certified%20Engineer-00BFFF?style=for-the-badge&logo=aviatrix&logoColor=white" /> 
-<img src="https://img.shields.io/badge/-Certified%20Cybersecurity%20Educator%20Professional%20(CCEP)-FF0000?style=for-the-badge&logo=cybersecurity&logoColor=white" /> 
-<img src="https://img.shields.io/badge/-Oracle%20Data%20Science-F80000?style=for-the-badge&logo=oracle&logoColor=white" /> 
-<img src="https://img.shields.io/badge/-NetSuite%20BI%20%26%20Reporting%20Associate-0078D7?style=for-the-badge&logo=netsuite&logoColor=white" /> 
-<img src="https://img.shields.io/badge/-NetSuite%20AI%20Foundations%20Associate-0078D7?style=for-the-badge&logo=netsuite&logoColor=white" /
 
 
 
