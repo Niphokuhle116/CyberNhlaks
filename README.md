@@ -12,10 +12,6 @@ SOC Analyst | Azure Cloud Security | IAM | SC-200 | SC-300 | AZ-104 | AZ-500
 
 Security-focused IT professional with hands-on experience in SOC operations, cloud security, identity protection, and threat detection. Certified in Microsoft Azure and Security technologies with practical lab experience and an actively growing cybersecurity portfolio. Passionate about protecting systems, detecting threats, and implementing Zero Trust security models.
 
-## Objective
-
-My journey in IT has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Cloud Security Engineer / Security Operations Center (SOC) / Security Architect.
-
 
 ## 🧠 Skills & Focus Areas
 - Security Operations (SOC / Blue Team)
