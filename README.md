@@ -44,8 +44,9 @@ Security-focused IT professional with hands-on experience in SOC operations, clo
 # Cybersecurity Projects
 
 
-## 🛡️PROJECT 1: Zero Trust IAM Implementation
+## 🛡️PROJECT 1: Zero Trust IAM Implementation.
 Lab Demonstration (https://github.com/Niphokuhle116/Zero-Trust-IAM-Implementation-Lab)
+## PROJECT 2: Microsoft Defender for Cloud — Cloud Security Posture & Workload Protection.
 
 ## 🔐 Break-Glass & Emergency Access Practice
 Per Zero Trust architecture and strict separation-of-secrets practices:
