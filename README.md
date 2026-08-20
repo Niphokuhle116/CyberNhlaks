@@ -47,7 +47,7 @@ Security-focused IT professional with hands-on experience in SOC operations, clo
 ## 🛡️PROJECT 1: Zero Trust IAM Implementation.
 Lab Demonstration (https://github.com/Niphokuhle116/Zero-Trust-IAM-Implementation-Lab)
 ## PROJECT 2: Microsoft Defender for Cloud — Cloud Security Posture & Workload Protection.
-
+Lab Demonstration (https://github.com/Niphokuhle116/Project-2-Microsoft-Defender-for-Cloud-CSPM-Workload-Protection)
 ## 🔐 Break-Glass & Emergency Access Practice
 Per Zero Trust architecture and strict separation-of-secrets practices:
 * The credentials for `breakglass.admin@yourdomain.com` are stored **outside** this repository.
