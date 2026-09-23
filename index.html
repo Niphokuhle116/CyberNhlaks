@@ -1,122 +1,569 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cybersecurity Portfolio</title>
-    <link rel="stylesheet" href="assets/css/styles.css">
-    <style>
-        body {margin:0;font-family:Arial,sans-serif;background:#0d1117;color:#c9d1d9;transition: background 0.3s, color 0.3s;}
-        header {background:#161b22;padding:1.5rem 2rem;text-align:center;border-bottom:1px solid #30363d;}
-        header h1 {margin:0;font-size:2rem;color:#58a6ff;}
-        nav {margin-top:1rem;}
-        nav a {margin:0 1rem;color:#58a6ff;text-decoration:none;transition:color 0.3s;}
-        nav a:hover {color:#2ea043;}
-        section {max-width:900px;margin:auto;padding:2rem;}
-        .hero {text-align:center;padding:3rem 1rem;}
-        .hero h2 {font-size:2rem;}
-        .hero p {font-size:1.1rem;margin-top:0.5rem;}
-        .cards {display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:1.5rem;margin-top:2rem;}
-        .card {background:#161b22;border:1px solid #30363d;border-radius:12px;padding:1.5rem;transition:0.3s ease;}
-        .card:hover {border-color:#58a6ff;}
-        a.button {display:inline-block;margin-top:1rem;padding:0.75rem 1.5rem;background:#238636;color:white;text-decoration:none;border-radius:8px;transition:0.3s;}
-        a.button:hover {background:#2ea043;}
-        footer {text-align:center;padding:2rem 1rem;border-top:1px solid #30363d;margin-top:2rem;color:#8b949e;}
-        .dark-mode {background:#0d1117;color:#c9d1d9;}
-        .light-mode {background:#f5f5f5;color:#111;}
-        .mode-toggle {position:fixed;top:1rem;right:1rem;padding:0.5rem 1rem;background:#58a6ff;color:white;border:none;border-radius:6px;cursor:pointer;transition:0.3s;}
-        .mode-toggle:hover {background:#2ea043;}
-    </style>
+
+    <title>CyberNhlaks | Cybersecurity Portfolio</title>
+
+    <meta name="description"
+        content="CyberNhlaks cybersecurity portfolio showcasing SOC, cloud security, IAM, networking and defensive security projects.">
+
+    <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
-    <button class="mode-toggle" onclick="toggleMode()">Toggle Light/Dark</button>
+
+    <!-- ================= NAVIGATION ================= -->
+
     <header>
-        <h1>Cybersecurity Portfolio</h1>
-        <nav>
-            <a href="#projects">Projects</a>
-            <a href="#ctf">CTFs</a>
-            <a href="#skills">Skills</a>
-            <a href="#certificates">Certificates</a>
-            <a href="#contact">Contact</a>
+        <nav class="navbar">
+
+            <div class="logo">
+                Cyber<span>Nhlaks</span>
+            </div>
+
+            <ul class="nav-links">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#certifications">Certifications</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+
         </nav>
     </header>
 
-    <section class="hero">
-        <h2>Welcome to My Cybersecurity Portfolio</h2>
-        <p>Explore hands-on security projects, labs, tools, and CTF write-ups.</p>
-        <a class="button" href="#projects">View Projects</a>
-    </section>
 
-    <section id="projects">
-        <h2>Featured Projects</h2>
-        <div class="cards">
-            <div class="card">
-                <h3>🔐 Vulnerability Scanner</h3>
-                <p>Python-based tool to scan systems for outdated services and misconfigurations.</p>
-                <a href="#" class="button">GitHub Repo</a>
+    <!-- ================= HOME ================= -->
+
+    <section id="home" class="hero">
+
+        <div class="hero-content">
+
+            <p class="tagline">
+                CYBERSECURITY • CLOUD • IAM • SOC
+            </p>
+
+            <h1>
+                Building a Career in
+                <span>Cybersecurity</span>
+            </h1>
+
+            <p class="hero-text">
+                Welcome to CyberNhlaks — my personal cybersecurity portfolio
+                documenting hands-on labs, security projects, cloud security,
+                identity and access management, SOC investigations and
+                continuous technical learning.
+            </p>
+
+            <div class="hero-buttons">
+
+                <a href="#projects" class="btn">
+                    Explore My Projects
+                </a>
+
+                <a href="https://github.com/Niphokuhle116/CyberNhlaks"
+                   target="_blank"
+                   class="btn secondary">
+                    View GitHub
+                </a>
+
             </div>
-            <div class="card">
-                <h3>🛡️ SIEM Log Analyzer</h3>
-                <p>Parses logs and maps suspicious activity to MITRE ATT&CK techniques.</p>
-                <a href="#" class="button">GitHub Repo</a>
-            </div>
-            <div class="card">
-                <h3>🕵️ Pentest Automation Scripts</h3>
-                <p>Automated recon, enumeration, and reporting scripts for ethical hacking labs.</p>
-                <a href="#" class="button">GitHub Repo</a>
-            </div>
+
         </div>
+
     </section>
 
-    <section id="ctf">
-        <h2>CTF Writeups</h2>
-        <div class="cards">
-            <div class="card">
-                <h3>🔎 TryHackMe Writeups</h3>
-                <p>Beginner to advanced room walkthroughs with defensive explanations.</p>
+
+    <!-- ================= ABOUT ================= -->
+
+    <section id="about" class="section">
+
+        <p class="section-label">ABOUT ME</p>
+
+        <h2>Cybersecurity Professional in Progress</h2>
+
+        <p>
+            I am an aspiring cybersecurity professional focused on developing
+            practical skills across Security Operations, Cloud Security,
+            Identity and Access Management, networking and defensive security.
+        </p>
+
+        <p>
+            My approach is centred around hands-on learning. I build labs,
+            investigate security scenarios, document my findings and create
+            technical projects that demonstrate how security concepts can be
+            applied in real-world environments.
+        </p>
+
+        <p>
+            My long-term career direction is to grow from Security Operations
+            and cloud security roles into advanced Cloud Security and
+            Cybersecurity Architecture.
+        </p>
+
+    </section>
+
+
+    <!-- ================= SKILLS ================= -->
+
+    <section class="section">
+
+        <p class="section-label">TECHNICAL FOCUS</p>
+
+        <h2>Areas I'm Building Experience In</h2>
+
+        <div class="skills-grid">
+
+            <div class="skill-card">
+                <h3>🛡️ Security Operations</h3>
+                <p>
+                    SIEM, alert investigation, log analysis,
+                    incident response and threat detection.
+                </p>
             </div>
-            <div class="card">
-                <h3>💣 HackTheBox Challenges</h3>
-                <p>Enumeration, exploitation, privilege escalation, and reporting.</p>
+
+            <div class="skill-card">
+                <h3>☁️ Cloud Security</h3>
+                <p>
+                    Azure security, networking, monitoring,
+                    hardening and cloud security architecture.
+                </p>
             </div>
+
+            <div class="skill-card">
+                <h3>🔐 Identity & Access</h3>
+                <p>
+                    Microsoft Entra ID, MFA, Conditional Access,
+                    privileged access and IAM concepts.
+                </p>
+            </div>
+
+            <div class="skill-card">
+                <h3>🌐 Network Security</h3>
+                <p>
+                    TCP/IP, network reconnaissance, Nmap,
+                    network security and troubleshooting.
+                </p>
+            </div>
+
+            <div class="skill-card">
+                <h3>🔎 Reconnaissance & OSINT</h3>
+                <p>
+                    Nmap, Recon-ng, passive reconnaissance
+                    and security research.
+                </p>
+            </div>
+
+            <div class="skill-card">
+                <h3>🎣 Phishing & Detection</h3>
+                <p>
+                    Phishing analysis, detection techniques,
+                    investigation and response.
+                </p>
+            </div>
+
         </div>
+
     </section>
 
-    <section id="skills">
-        <h2>Skills & Technologies</h2>
-        <ul>
-            <li>Network Security, SOC Monitoring, SIEM</li>
-            <li>Penetration Testing & Ethical Hacking</li>
-            <li>Azure Security & Cloud Hardening</li>
-            <li>Python, Bash, PowerShell</li>
-            <li>MITRE ATT&CK, Threat Intelligence</li>
-        </ul>
+
+    <!-- ================= PROJECTS ================= -->
+
+    <section id="projects" class="section">
+
+        <p class="section-label">HANDS-ON EXPERIENCE</p>
+
+        <h2>Cybersecurity Projects & Labs</h2>
+
+        <p>
+            These projects document my practical cybersecurity learning.
+            Each project will include objectives, tools, methodology,
+            screenshots, findings and lessons learned.
+        </p>
+
+
+        <div class="projects-grid">
+
+
+          <!-- PROJECT 1 -->
+
+<div class="project-card">
+
+    <span class="project-category">
+        NETWORK RECON
+    </span>
+
+    <h3>
+        Nmap Network Reconnaissance
+    </h3>
+
+    <p>
+        Network reconnaissance performed in an isolated VirtualBox lab
+        using Kali Linux and Windows 10. The project covers host discovery,
+        TCP port scanning, service and version detection, OS fingerprinting,
+        and security analysis.
+    </p>
+
+    <p class="tools">
+        Tools: Nmap • Kali Linux • Windows 10 • VirtualBox
+    </p>
+
+    <a href="https://github.com/Niphokuhle116/CyberNhlaks/tree/main/Nmap-Network-Reconnaissance"
+       class="project-link"
+       target="_blank"
+       rel="noopener noreferrer">
+        View Project →
+    </a>
+
+</div>
+
+<!-- PROJECT 2 -->
+
+<div class="project-card">
+
+    <span class="project-category">
+        NETWORK ANALYSIS
+    </span>
+
+    <h3>
+        Wireshark Network Traffic Analysis
+    </h3>
+
+    <p>
+        Packet capture and network traffic analysis performed in an
+        isolated cybersecurity lab using Kali Linux and Windows 10.
+        The project investigates ICMP, TCP, DNS, and HTTP traffic
+        using Wireshark display filters and packet inspection.
+    </p>
+
+    <p class="tools">
+        Tools: Wireshark • Kali Linux • Windows 10 • TCP/IP
+    </p>
+
+    <a href="https://github.com/Niphokuhle116/Wireshark-Network-Traffic-Analysis"
+   class="project-link"
+   target="_blank"
+   rel="noopener noreferrer">
+    View Project →
+</a>
+</div>
+
+            <!-- PROJECT 2 -->
+
+            <div class="project-card">
+
+                <span class="project-category">
+                    OSINT
+                </span>
+
+                <h3>
+                    Recon-ng Passive OSINT Lab
+                </h3>
+
+                <p>
+                    Passive reconnaissance and information gathering using
+                    Recon-ng and publicly available information.
+                </p>
+
+                <p class="tools">
+                    Tools: Recon-ng • OSINT • Kali Linux
+                </p>
+
+                <a href="#" class="project-link">
+                    View Project →
+                </a>
+
+            </div>
+
+
+            <!-- PROJECT 3 -->
+
+            <div class="project-card">
+
+                <span class="project-category">
+                    SOC
+                </span>
+
+                <h3>
+                    SOC Alert Investigation
+                </h3>
+
+                <p>
+                    Investigation of simulated security alerts involving
+                    log analysis, alert triage and incident documentation.
+                </p>
+
+                <p class="tools">
+                    Tools: SIEM • Logs • MITRE ATT&CK
+                </p>
+
+                <a href="#" class="project-link">
+                    View Project →
+                </a>
+
+            </div>
+
+
+            <!-- PROJECT 4 -->
+
+            <div class="project-card">
+    <h3>Azure Security Hardening</h3>
+    <p>
+        Cloud security hardening project focused on Azure
+        virtual machines, networking and security controls.
+    </p>
+
+    <a href="#" class="project-link">
+        View Project →
+    </a>
+</div>
+
+            <div class="project-card">
+
+                <span class="project-category">
+                    AZURE
+                </span>
+
+                <h3>
+                    Azure Security Hardening
+                </h3>
+
+                <p>
+                    Cloud security lab focused on Azure resources,
+                    networking, security controls, monitoring and
+                    infrastructure hardening.
+                </p>
+
+                <p class="tools">
+                    Tools: Microsoft Azure • NSG • Azure Monitor
+                </p>
+
+           <a href="#" class="project-link">
+            View Project →
+         </a>
+
+            </div>
+
+
+            <!-- PROJECT 5 -->
+
+            <div class="project-card">
+
+                <span class="project-category">
+                    IAM
+                </span>
+
+                <h3>
+                    Microsoft Entra IAM Lab
+                </h3>
+
+                <p>
+                    Identity and access management laboratory covering
+                    MFA, Conditional Access and privileged access controls.
+                </p>
+
+                <p class="tools">
+                    Tools: Microsoft Entra ID • MFA • PIM
+                </p>
+
+                <a href="#" class="project-link">
+                    View Project →
+                </a>
+
+            </div>
+
+
+            <!-- PROJECT 6 -->
+
+            <div class="project-card">
+
+                <span class="project-category">
+                    DEFENSIVE SECURITY
+                </span>
+
+                <h3>
+                    Phishing Detection & Response
+                </h3>
+
+                <p>
+                    Analysis of simulated phishing attacks and development
+                    of investigation, detection and response procedures.
+                </p>
+
+                <p class="tools">
+                    Tools: Email Security • SIEM • Defender
+                </p>
+
+                <a href="#" class="project-link">
+                    View Project →
+                </a>
+
+            </div>
+
+        </div>
+
     </section>
 
-    <section id="certificates">
-        <h2>Certificates</h2>
-        <ul>
-            <li>Microsoft Azure Fundamentals (AZ-900)</li>
-            <li>Microsoft Azure Administrator Associate (AZ-104)</li>
-            <li>More in <code>/certificates</code> folder</li>
-        </ul>
+
+    <!-- ================= CERTIFICATIONS ================= -->
+
+    <section id="certifications" class="section">
+
+        <p class="section-label">CREDENTIALS</p>
+
+        <h2>Certifications & Training</h2>
+
+        <div class="certifications">
+
+            <div>CompTIA Security+</div>
+
+            <div>Microsoft Azure AZ-900</div>
+
+            <div>Microsoft Azure AZ-104</div>
+
+            <div>Microsoft Azure AZ-500</div>
+
+            <div>Microsoft SC-900</div>
+
+            <div>Microsoft SC-200</div>
+
+            <div>Microsoft SC-300</div>
+
+            <div>Microsoft DP-700</div>
+
+            <div>Fortinet Certified Associate in Cybersecurity</div>
+
+            <div>Aviatrix Certified Engineer</div>
+
+            <div>Google Cybersecurity</div>
+
+            <div>Oracle Data Science</div>
+
+            <div>Oracle NetSuite BI & Reporting Associate</div>
+
+            <div>Oracle NetSuite AI Foundations Associate</div>
+
+            <div>Certified Cybersecurity Educator Professional</div>
+
+            <div>Certified Phishing Prevention Specialist</div>
+
+            <div>Certified C++ Practitioner</div>
+
+            <div>Introduction to Critical Infrastructure Protection</div>
+
+            <div>Proofpoint Certified AI Data Security Specialist</div>
+
+        </div>
+
     </section>
 
-    <section id="contact">
-        <h2>Contact</h2>
-        <p>Email: your@email.com</p>
-        <p>LinkedIn: <a href="#">Your LinkedIn</a></p>
+
+    <!-- ================= ROADMAP ================= -->
+
+    <section class="section">
+
+        <p class="section-label">CAREER ROADMAP</p>
+
+        <h2>My Cybersecurity Journey</h2>
+
+        <div class="roadmap">
+
+            <div>
+                <span>01</span>
+                <h3>Security Operations</h3>
+                <p>
+                    Building practical SOC, SIEM, detection,
+                    investigation and incident response skills.
+                </p>
+            </div>
+
+            <div>
+                <span>02</span>
+                <h3>Cloud Security</h3>
+                <p>
+                    Developing deeper expertise in Azure,
+                    cloud infrastructure and security controls.
+                </p>
+            </div>
+
+            <div>
+                <span>03</span>
+                <h3>Cloud Security Engineering</h3>
+                <p>
+                    Designing and implementing secure cloud
+                    environments and security solutions.
+                </p>
+            </div>
+
+            <div>
+                <span>04</span>
+                <h3>Security Architecture</h3>
+                <p>
+                    Long-term goal: designing secure, scalable
+                    cloud and enterprise security architectures.
+                </p>
+            </div>
+
+        </div>
+
     </section>
+
+
+    <!-- ================= CONTACT ================= -->
+
+    <section id="contact" class="section contact">
+
+        <p class="section-label">CONNECT</p>
+
+        <h2>Let's Connect</h2>
+
+        <p>
+            Explore my projects, technical work and cybersecurity journey
+            through the platforms below.
+        </p>
+
+        <div class="social-links">
+
+            <a href="https://github.com/Niphokuhle116/CyberNhlaks"
+               target="_blank">
+                GitHub
+            </a>
+
+            <!-- LinkedIn Profile -->
+            <a href="https://www.linkedin.com/in/nhlakanipho-mkhatshwa/"
+               target="_blank"
+             rel="noopener noreferrer">
+                LinkedIn
+            </a>
+
+            <!-- Replace # with your YouTube URL -->
+            <a href="#"
+               target="_blank">
+                YouTube
+            </a>
+
+        </div>
+
+    </section>
+
+
+    <!-- ================= FOOTER ================= -->
 
     <footer>
-        <p>© 2025 Your Name — Cybersecurity Portfolio</p>
+
+        <p>
+            © 2026 CyberNhlaks
+        </p>
+
+        <p>
+            Cybersecurity • Cloud Security • IAM • SOC
+        </p>
+
     </footer>
 
-    <script>
-        function toggleMode() {
-            document.body.classList.toggle('light-mode');
-            document.body.classList.toggle('dark-mode');
-        }
-    </script>
+
 </body>
 </html>
