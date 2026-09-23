@@ -1,0 +1,585 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <title>Nmap Network Reconnaissance | CyberNhlaks</title>
+
+    <meta name="description"
+          content="CyberNhlaks Nmap Network Reconnaissance cybersecurity project.">
+
+    <link rel="stylesheet"
+          href="../style.css">
+
+</head>
+
+
+<body>
+
+
+    <!-- ================= NAVIGATION ================= -->
+
+    <header>
+
+        <nav class="navbar">
+
+            <div class="logo">
+                Cyber<span>Nhlaks</span>
+            </div>
+
+            <ul class="nav-links">
+
+                <li>
+                    <a href="../index.html">
+                        Home
+                    </a>
+                </li>
+
+                <li>
+                    <a href="../index.html#projects">
+                        Projects
+                    </a>
+                </li>
+
+                <li>
+                    <a href="../index.html#certifications">
+                        Certifications
+                    </a>
+                </li>
+
+                <li>
+                    <a href="../index.html#about">
+                        About
+                    </a>
+                </li>
+
+                <li>
+                    <a href="../index.html#contact">
+                        Contact
+                    </a>
+                </li>
+
+            </ul>
+
+        </nav>
+
+    </header>
+
+
+
+    <!-- ================= PROJECT HEADER ================= -->
+
+    <section class="project-hero">
+
+        <div class="project-hero-content">
+
+            <p class="section-label">
+                NETWORK RECONNAISSANCE
+            </p>
+
+            <h1>
+                Nmap Network
+                <span>Reconnaissance</span>
+            </h1>
+
+            <p>
+                A hands-on network reconnaissance laboratory
+                focused on host discovery, port scanning,
+                service enumeration and security analysis.
+            </p>
+
+            <div class="project-meta">
+
+                <span>Nmap</span>
+
+                <span>Kali Linux</span>
+
+                <span>Networking</span>
+
+                <span>Reconnaissance</span>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+
+    <!-- ================= PROJECT CONTENT ================= -->
+
+    <main class="project-container">
+
+
+        <!-- OBJECTIVE -->
+
+        <section class="project-section">
+
+            <p class="section-label">
+                01 — OBJECTIVE
+            </p>
+
+            <h2>
+                Project Objective
+            </h2>
+
+            <p>
+                The objective of this laboratory was to develop
+                practical network reconnaissance skills using
+                Nmap in an authorized lab environment.
+            </p>
+
+            <p>
+                The investigation focused on identifying live
+                hosts, discovering open ports, determining
+                available services and interpreting the results
+                from a defensive security perspective.
+            </p>
+
+        </section>
+
+
+
+        <!-- ENVIRONMENT -->
+
+        <section class="project-section">
+
+            <p class="section-label">
+                02 — LAB ENVIRONMENT
+            </p>
+
+            <h2>
+                Laboratory Environment
+            </h2>
+
+            <div class="environment-grid">
+
+                <div class="environment-card">
+
+                    <h3>Operating System</h3>
+
+                    <p>
+                        Kali Linux
+                    </p>
+
+                </div>
+
+
+                <div class="environment-card">
+
+                    <h3>Primary Tool</h3>
+
+                    <p>
+                        Nmap
+                    </p>
+
+                </div>
+
+
+                <div class="environment-card">
+
+                    <h3>Target</h3>
+
+                    <p>
+                        Authorized laboratory host
+                    </p>
+
+                </div>
+
+
+                <div class="environment-card">
+
+                    <h3>Focus</h3>
+
+                    <p>
+                        Network reconnaissance
+                    </p>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+
+        <!-- METHODOLOGY -->
+
+        <section class="project-section">
+
+            <p class="section-label">
+                03 — METHODOLOGY
+            </p>
+
+            <h2>
+                Reconnaissance Methodology
+            </h2>
+
+            <div class="methodology">
+
+                <div>
+
+                    <span>01</span>
+
+                    <h3>
+                        Host Discovery
+                    </h3>
+
+                    <p>
+                        Identify hosts that are reachable
+                        within the authorized laboratory
+                        network.
+                    </p>
+
+                </div>
+
+
+                <div>
+
+                    <span>02</span>
+
+                    <h3>
+                        Port Scanning
+                    </h3>
+
+                    <p>
+                        Identify open TCP ports and determine
+                        which services may be accessible.
+                    </p>
+
+                </div>
+
+
+                <div>
+
+                    <span>03</span>
+
+                    <h3>
+                        Service Enumeration
+                    </h3>
+
+                    <p>
+                        Determine the services and versions
+                        associated with discovered ports.
+                    </p>
+
+                </div>
+
+
+                <div>
+
+                    <span>04</span>
+
+                    <h3>
+                        Security Analysis
+                    </h3>
+
+                    <p>
+                        Analyze the discovered attack surface
+                        from a defensive security perspective.
+                    </p>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+
+        <!-- COMMANDS -->
+
+        <section class="project-section">
+
+            <p class="section-label">
+                04 — NMAP COMMANDS
+            </p>
+
+            <h2>
+                Commands Used
+            </h2>
+
+
+            <div class="command-block">
+
+                <h3>
+                    Basic Host Discovery
+                </h3>
+
+                <pre><code>nmap -sn TARGET_IP</code></pre>
+
+                <p>
+                    Used to determine whether hosts are
+                    responding without performing a full
+                    port scan.
+                </p>
+
+            </div>
+
+
+            <div class="command-block">
+
+                <h3>
+                    Basic Port Scan
+                </h3>
+
+                <pre><code>nmap TARGET_IP</code></pre>
+
+                <p>
+                    Used to identify commonly scanned open
+                    TCP ports on the authorized target.
+                </p>
+
+            </div>
+
+
+            <div class="command-block">
+
+                <h3>
+                    Service Version Detection
+                </h3>
+
+                <pre><code>nmap -sV TARGET_IP</code></pre>
+
+                <p>
+                    Used to identify services and their
+                    detected versions.
+                </p>
+
+            </div>
+
+
+            <div class="command-block">
+
+                <h3>
+                    Operating System Detection
+                </h3>
+
+                <pre><code>nmap -O TARGET_IP</code></pre>
+
+                <p>
+                    Used in the laboratory to attempt
+                    operating system identification.
+                </p>
+
+            </div>
+
+        </section>
+
+
+
+        <!-- RESULTS -->
+
+        <section class="project-section">
+
+            <p class="section-label">
+                05 — RESULTS
+            </p>
+
+            <h2>
+                Findings
+            </h2>
+
+            <p>
+                The scan results will be documented here after
+                completing the laboratory investigation.
+            </p>
+
+
+            <div class="finding-box">
+
+                <h3>
+                    Discovery
+                </h3>
+
+                <p>
+                    Document the hosts discovered during
+                    reconnaissance.
+                </p>
+
+            </div>
+
+
+            <div class="finding-box">
+
+                <h3>
+                    Open Ports
+                </h3>
+
+                <p>
+                    Document the open ports identified during
+                    the scan and explain the associated services.
+                </p>
+
+            </div>
+
+
+            <div class="finding-box">
+
+                <h3>
+                    Security Observations
+                </h3>
+
+                <p>
+                    Document potential security risks associated
+                    with unnecessary exposed services.
+                </p>
+
+            </div>
+
+        </section>
+
+
+
+        <!-- SCREENSHOTS -->
+
+        <section class="project-section">
+
+            <p class="section-label">
+                06 — EVIDENCE
+            </p>
+
+            <h2>
+                Screenshots & Evidence
+            </h2>
+
+            <p>
+                Screenshots from the authorized laboratory
+                environment will be added here to demonstrate
+                the reconnaissance process and results.
+            </p>
+
+
+            <div class="evidence-placeholder">
+
+                <p>
+                    📸 Nmap scan screenshot
+                </p>
+
+            </div>
+
+
+            <div class="evidence-placeholder">
+
+                <p>
+                    📸 Terminal / reconnaissance screenshot
+                </p>
+
+            </div>
+
+        </section>
+
+
+
+        <!-- LESSONS -->
+
+        <section class="project-section">
+
+            <p class="section-label">
+                07 — LESSONS LEARNED
+            </p>
+
+            <h2>
+                Lessons Learned
+            </h2>
+
+            <ul class="lessons">
+
+                <li>
+                    Network reconnaissance provides visibility
+                    into exposed systems and services.
+                </li>
+
+                <li>
+                    Open ports should be investigated to determine
+                    whether the associated services are required.
+                </li>
+
+                <li>
+                    Service enumeration can provide useful
+                    information for vulnerability assessment
+                    and defensive monitoring.
+                </li>
+
+                <li>
+                    Reconnaissance should only be performed against
+                    systems where authorization has been provided.
+                </li>
+
+            </ul>
+
+        </section>
+
+
+
+        <!-- VIDEO -->
+
+        <section class="project-section">
+
+            <p class="section-label">
+                08 — DEMONSTRATION
+            </p>
+
+            <h2>
+                Video Demonstration
+            </h2>
+
+            <p>
+                A demonstration video showing the laboratory
+                setup, reconnaissance process and results will
+                be published on my cybersecurity YouTube channel.
+            </p>
+
+            <div class="video-placeholder">
+
+                <p>
+                    🎥 YouTube demonstration coming soon
+                </p>
+
+            </div>
+
+        </section>
+
+
+
+        <!-- BACK -->
+
+        <section class="project-navigation">
+
+            <a href="../index.html#projects"
+               class="btn">
+
+                ← Back to Projects
+
+            </a>
+
+        </section>
+
+
+    </main>
+
+
+
+    <!-- ================= FOOTER ================= -->
+
+    <footer>
+
+        <p>
+            © 2026 CyberNhlaks
+        </p>
+
+        <p>
+            Cybersecurity • Cloud Security • IAM • SOC
+        </p>
+
+    </footer>
+
+
+</body>
+
+</html>
